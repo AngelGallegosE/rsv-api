@@ -1,0 +1,50 @@
+RESERVAMOS_API_RESPONSE = [
+  {
+    "id": 19,
+    "slug": "monterrey",
+    "city_slug": "monterrey",
+    "display": "Monterrey",
+    "ascii_display": "monterrey",
+    "city_name": "Monterrey",
+    "city_ascii_name": "monterrey",
+    "state": "Nuevo León",
+    "country": "México",
+    "lat": "25.6866142",
+    "long": "-100.3161126",
+    "result_type": "city",
+    "popularity": "0.365111433802639",
+    "sort_criteria": 0.32604458067361297
+  },
+  {
+    "id": 13531,
+    "slug": "monteon",
+    "city_slug": "monteon",
+    "display": "Monteon",
+    "ascii_display": "monteon",
+    "city_name": "Monteon",
+    "city_ascii_name": "monteon",
+    "state": "Nayarit",
+    "country": "México",
+    "lat": "20.9864207",
+    "long": "-105.2984842",
+    "result_type": "city",
+    "popularity": "0",
+    "sort_criteria": 0.3
+  },
+  {
+    "id": 13532,
+    "slug": "t-monteon-monteon-geb",
+    "city_slug": "monteon",
+    "display": "Terminal Monteon GEB",
+    "ascii_display": "terminal monteon geb",
+    "city_name": "Monteon",
+    "city_ascii_name": "monteon",
+    "state": "Nayarit",
+    "country": "México",
+    "lat": "20.96698",
+    "long": "-105.34629799999999",
+    "result_type": "terminal",
+    "popularity": "0.00",
+    "sort_criteria": 0.3
+  }
+].to_json
